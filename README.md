@@ -23,12 +23,12 @@ Use **Store** only when you want to save the current settings in the driver memo
 
 ## Main features
 
-- Serial connection to the S-2m driver
-- Pulse period, pulse width and current limit configuration
-- Output voltage setting
-- Operating mode selection
-- Device status display
-- JSON status export for diagnostics
+* Serial connection to the S-2m driver
+* Pulse period, pulse width and current limit configuration
+* Output voltage setting
+* Operating mode selection
+* Device status display
+* JSON status export for diagnostics
 
 ## Safety
 
@@ -36,10 +36,10 @@ Read the S-2m user manual before operating the driver.
 
 Important points:
 
-- Do not exceed the electrical limits specified in the manual.
-- Do not enable internal and external pulse control at the same time.
-- Use the S-2m only with its paired HHL-QCL.
-- Check stored settings before powering the system.
+* Do not exceed the electrical limits specified in the manual.
+* Do not enable internal and external pulse control at the same time.
+* Use the S-2m only with its paired HHL-QCL.
+* Check stored settings before powering the system.
 
 ## Documentation
 
@@ -48,5 +48,6 @@ Refer to the **S-2m Driver User Manual v1.1.0** for complete installation, opera
 ## Support
 
 ALPES LASERS SA  
-Email: info@alpeslasers.ch  
+Email: sales@alpeslasers.ch  
 Website: http://www.alpeslasers.ch
+
